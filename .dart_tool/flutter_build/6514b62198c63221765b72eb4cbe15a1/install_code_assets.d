@@ -1,0 +1,1 @@
+ D:\\Full\ Project\\PoultryFarm\\.dart_tool\\flutter_build\\6514b62198c63221765b72eb4cbe15a1\\native_assets.json: 
